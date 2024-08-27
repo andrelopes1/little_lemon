@@ -8,7 +8,7 @@ The website demonstrates the implementation of a booking application for the Lit
 Please note: The only fully functional feature on this website, aside from the design, is the "Reserve a Table" function.
 
 ## Screenshots
-Here are some screeenshots of the application showcasing the Booking functionality.
+Here are some screenshots of the application highlighting the Booking functionality.
 
 <img src="https://github.com/andrelopes1/little_lemon/blob/main/screenshots/little-lemon.png" width="400" /> <img src="https://github.com/andrelopes1/little_lemon/blob/main/screenshots/little-lemon1.png" width="400" />
 
